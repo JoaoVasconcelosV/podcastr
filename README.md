@@ -10,7 +10,9 @@ This is a project done during the week #NLW5 of the [Rocketseat](https://rockets
 
 Podcastr is a single podcast website and not a network of multiple podcasts!
 
-## :camera: Screenshots
+## :camera: On
+
+- [Link]()
 
 ## :wrench: Technology
 
