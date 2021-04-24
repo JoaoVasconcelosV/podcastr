@@ -10,9 +10,9 @@ This is a project done during the week #NLW5 of the [Rocketseat](https://rockets
 
 Podcastr is a single podcast website and not a network of multiple podcasts!
 
-## :camera: On
+## :camera: Available in
 
-- [Link]()
+- [Link](https://podcastr-three-gold.vercel.app/)
 
 ## :wrench: Technology
 
